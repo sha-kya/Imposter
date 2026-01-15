@@ -1,0 +1,5 @@
+{
+  "name": "Imposter",
+  "description": "A local pass-and-play social deduction game where one player is the Imposter and everyone else knows the secret word.",
+  "requestFramePermissions": []
+}
